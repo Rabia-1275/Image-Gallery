@@ -65,7 +65,7 @@ Image_Gallery/
 
 ## 🌐 Live Demo
 
-> 🔗 [View Live Project](#) *(Add your Vercel/GitHub Pages link here)*
+> 🔗 [View Live Project](#) *(https://rabia-1275.github.io/Image-Gallery/)*
 
 ---
 
